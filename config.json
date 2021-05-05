@@ -1,0 +1,9 @@
+{
+  "postgres": {
+    "username" : "this username is already in use",
+    "password" : "12345 is not safe",
+    "dbName" : "`postgres` not likely",
+    "dbHost" : "ask reddit"
+  },
+  "token_password": "secret"
+}
